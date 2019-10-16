@@ -1,3 +1,5 @@
+#Barely Works
+
 import sys
 count = 1  
 initState = [2,3,4,5,6,5,7,8]  
